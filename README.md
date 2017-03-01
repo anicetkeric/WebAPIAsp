@@ -47,3 +47,31 @@ Ce dossier contient les entités ou propriétés utilisées pour stocker les val
 ![capture 6](https://github.com/anicetkeric/WebAPIAsp/blob/master/WebAPIAsp/screen/6.PNG)
 
 ![capture 7](https://github.com/anicetkeric/WebAPIAsp/blob/master/WebAPIAsp/screen/7.PNG)
+
+
+
+![capture 8](https://github.com/anicetkeric/WebAPIAsp/blob/master/WebAPIAsp/screen/8.PNG)
+
+![capture 9](https://github.com/anicetkeric/WebAPIAsp/blob/master/WebAPIAsp/screen/9.PNG)
+
+
+## Test avec postman
+
+Demarrer l'application. 	
+
+| Action        | HTTP method   |URI  |
+| ------------- |:-------------:| -----:|
+| Ajouter un livre    | POST | api/book/AddBook/{book} |
+| Liste des livres     | GET      |  api/book/GetAllBooks/ |
+| Selectionner un livre | GET     |    api/book/GetBook/{id} |
+| Supprimer un livre |DELETE      |   api/book/DeleteBook/{idBook} |
+| Modifier un livre | PUT     |   api/book/UpdateBook/{book}|
+
+
+![capture 10](https://github.com/anicetkeric/WebAPIAsp/blob/master/WebAPIAsp/screen/10.PNG)
+
+![capture 11](https://github.com/anicetkeric/WebAPIAsp/blob/master/WebAPIAsp/screen/11.PNG)
+
+![capture 12](https://github.com/anicetkeric/WebAPIAsp/blob/master/WebAPIAsp/screen/12.PNG)
+
+![capture 13](https://github.com/anicetkeric/WebAPIAsp/blob/master/WebAPIAsp/screen/13.PNG)
