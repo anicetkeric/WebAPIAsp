@@ -60,12 +60,12 @@ Ce dossier contient les entités ou propriétés utilisées pour stocker les val
 Demarrer l'application. 	
 
 | Action        | HTTP method   |URI  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| -----|
 | Ajouter un livre    | POST | api/book/AddBook/{book} |
-| Liste des livres     | GET      |  api/book/GetAllBooks/ |
-| Selectionner un livre | GET     |    api/book/GetBook/{id} |
-| Supprimer un livre |DELETE      |   api/book/DeleteBook/{idBook} |
-| Modifier un livre | PUT     |   api/book/UpdateBook/{book}|
+| Liste des livres     | GET      | api/book/GetAllBooks/ |
+| Selectionner un livre | GET     | api/book/GetBook/{id} |
+| Supprimer un livre |DELETE      | api/book/DeleteBook/{idBook} |
+| Modifier un livre | PUT     | api/book/UpdateBook/{book}|
 
 
 ![capture 10](https://github.com/anicetkeric/WebAPIAsp/blob/master/WebAPIAsp/screen/10.PNG)
